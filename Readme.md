@@ -1,5 +1,4 @@
-# Agate
-General Education Method: Agreements
+# Sardonyx
+Sandbox Repository
 
-This repository exists to allow people to sign an MIT licensing agreement
-for the Gem projects.
+This repository exists to allow people to learn how to use git
